@@ -1,10 +1,10 @@
 {
     "author": "Minghai Zhao <minghai.zhao@gmail.com>",
-    "description": "This is a official manual for DataBright",
+    "description": "This is official manual for DataBright",
     "generator": "site",
     "links": {
         "sidebar": {
-            "DataBright": "http://databright.org"
+            "Open in New Window": "http://doc.databright.org"
         }
     },
     "pdf": {

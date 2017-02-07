@@ -1,3 +1,4 @@
-# First Chapter
+# DataBright Installation
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+You can follow this document to easily download DataBright software and install it on your own  desktop computer.
+

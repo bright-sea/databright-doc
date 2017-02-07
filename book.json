@@ -1,15 +1,12 @@
 {
     "author": "Minghai Zhao <minghai.zhao@gmail.com>",
     "description": "This is a official manual for DataBright",
-    "extension": null,
     "generator": "site",
-    "isbn": null,
     "links": {
         "sidebar": {
             "DataBright": "http://databright.org"
         }
     },
-    "output": null,
     "pdf": {
         "fontSize": 12,
         "footerTemplate": null,
@@ -24,8 +21,6 @@
         "paperSize": "a4"
     },
     "plugins": ["-sharing"]
-    "title": "DataBright",
-    "variables": {},
     "styles": {
         "website": "styles/website.css"
     }

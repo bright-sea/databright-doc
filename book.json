@@ -4,7 +4,8 @@
     "generator": "site",
     "links": {
         "sidebar": {
-            "Open in New Window": "http://doc.databright.org"
+            "Open in New Window": "http://doc.databright.org",
+            "DataBright": "http://databright.org"
         }
     },
     "pdf": {
